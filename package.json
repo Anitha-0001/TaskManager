@@ -1,0 +1,10 @@
+{
+  "name": "prayer-task-manager",
+  "version": "1.0.0",
+  "description": "Simple task manager web app with React frontend and Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
